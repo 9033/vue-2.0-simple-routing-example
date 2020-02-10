@@ -1,7 +1,6 @@
 <template>
   <main-layout>
-    <p>About page</p>
-    <a href="https://github.com/9033/vue-2.0-simple-routing-example">https://github.com/9033/vue-2.0-simple-routing-example</a>
+    <p>바닐라아이스크림</p>
   </main-layout>
 </template>
 
